@@ -8,65 +8,68 @@ Here I'm creating an overview of why Spryker is a great platform to learn for de
   * Technical lead code review       
   * Application architect code review
 * Besides these "human" reviews, Spryker uses various tools for monitoring the quality of the codebase and performance of the product in general: [PHPStan](https://phpstan.org/), [PHPMD](https://phpmd.org/), [Psalm](https://psalm.dev/), [Codeception](https://codeception.com/);
-* We like to say that we are positive perfectionists, and work only with clean and high-quality code. But you don't need to take that from us: Check our increadible code quality rating on [Scrutinizer](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master):  
-
+* We like to say that we are positive perfectionists, and work only with clean and high-quality code. But you don't need to take that from us: Check our increadible code quality rating on [Scrutinizer](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master).  
 
 ## Technology
-### Application and Data:
-* PHP 8+
-* NGINX
-* PostgreSQL
-* Apache Server
-* AngularJS
-* Bootstrap
-* Redis
-* Amazon S3
-* Vue.js
-* Amazon EC2
-* Amazon CloudFront
-* RabbitMQ
-* MariaDB
-* Symfony
-* Propel ORM
-* Elasticsearch
-* Amazon SQS
+### Application:
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+*(AWS: S3, EC2, CloudFront, SQS)
+
+#### Other:
+Propel ORM
 
 ### DevOps
-* GitHub
-* Docker
-* Jenkins
-* New Relic
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+#### Other:
 * Amazon CloudWatch
 * AWS Elastic Load
-* Composer
 * AWS CodePipeline
 * Buddy
-* Scrutinizer
-* Psalm
 * Codeception
-* PHPStan
+* Composer
+* New Relic
+* Scrutinizer
 * PHPMD
+* PHPStan
+* Psalm
 
 Also see the [Spryker page on StackShare.io](https://stackshare.io/spryker/spryker-os)
 
-### Some of our Github Stats
+### Some of our Github code stats
 ![GitHub Org's stars](https://img.shields.io/github/stars/spryker?style=social) 
 ![GitHub watchers](https://img.shields.io/github/watchers/spryker/spryker-core?style=social) 
 ![GitHub language count](https://img.shields.io/github/languages/count/spryker/spryker-core) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spryker/spryker-core)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master)
 
 ## Where to find Spryker on the web
 * [Spryker.com](https://spryker.com/)
 * [Spryker Documentation](https://docs.spryker.com/)
 * [Spryker Academy](https://spryker.com/academy-learning/)
 * [Spryker Community](https://spryker.com/community/)
-* [GitHub](https://github.com/spryker)
-* [LinkedIn](https://www.linkedin.com/company/spryker)
-* [Twitter](https://twitter.com/sprysys)
-* [YouTube](https://www.youtube.com/channel/UC6lVOEbqXxUh0W5FMTvlPDQ)
-* [Reddit](https://www.reddit.com/r/spryker/)
 
-![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/spryker?style=social) 
-![Twitter Follow](https://img.shields.io/twitter/follow/sprysys?style=social) 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC6lVOEbqXxUh0W5FMTvlPDQ?style=social)
-
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spryker)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/questions/tagged/spryker)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/spryker)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gxjansen/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/sprysys)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC6lVOEbqXxUh0W5FMTvlPDQ)
+[![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)](https://www.meetup.com/Spryker-User-Group/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/spryker/)
