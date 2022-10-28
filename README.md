@@ -49,6 +49,12 @@ Here I'm creating an overview of why Spryker is a great platform to learn for de
 
 Also see the [Spryker page on StackShare.io](https://stackshare.io/spryker/spryker-os)
 
+### Some of our Github Stats
+![GitHub Org's stars](https://img.shields.io/github/stars/spryker?style=social) 
+![GitHub watchers](https://img.shields.io/github/watchers/spryker/spryker-core?style=social) 
+![GitHub language count](https://img.shields.io/github/languages/count/spryker/spryker-core) 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spryker/spryker-core)
+
 ## Where to find Spryker on the web
 * [Spryker.com](https://spryker.com/)
 * [Spryker Documentation](https://docs.spryker.com/)
@@ -58,3 +64,9 @@ Also see the [Spryker page on StackShare.io](https://stackshare.io/spryker/spryk
 * [LinkedIn](https://www.linkedin.com/company/spryker)
 * [Twitter](https://twitter.com/sprysys)
 * [YouTube](https://www.youtube.com/channel/UC6lVOEbqXxUh0W5FMTvlPDQ)
+* [Reddit](https://www.reddit.com/r/spryker/)
+
+![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/spryker?style=social) 
+![Twitter Follow](https://img.shields.io/twitter/follow/sprysys?style=social) 
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC6lVOEbqXxUh0W5FMTvlPDQ?style=social)
+
