@@ -1,23 +1,21 @@
-Here we're creating an overview of why Spryker is a great platform for developers to learn :student:, to enjoy :star_struck: and to make a good career out of :moneybag:. And if you're just like me, you don't want empty claims: you want **proof**. 
+Here we're crafting an overview of why Spryker is a great platform for developers to learn :student:, to enjoy :star_struck: and to make a good career out of :moneybag:. And if you're just like me, you don't want empty claims: you want **proof**. 
 
 So here we go. And feel free to send in your PRs!
 
-- [Reason X | Basic characteristics of Spryker Development](#reason-1--basic-characteristics-of-spryker-development)
-- [Technology](#technology)
-  - [Application](#application)
-  - [DevOps](#devops)
-  - [Some of our Github code stats](#some-of-our-github-code-stats)
-- [Reason 1A: Programming language - PHP](#reason-1a-programming-language---php)
-- [No need for a big team to build or run a Spryker project](#no-need-for-a-big-team-to-build-or-run-a-spryker-project)
-- [Long term maintainability](#long-term-maintainability)
-- [Job security](#job-security)
+# Table of contents
+
+- [Reason X: Basic characteristics of Spryker Development](#reason-x-basic-characteristics-of-spryker-development)
+  - [Technology](#technology)
+  - [Github code stats](#github-code-stats)
+- [Reason Xa: Programming language: PHP](#reason-xa-programming-language-php)
+- [Reason X: No need for a big team to build or run a Spryker project](#reason-x-no-need-for-a-big-team-to-build-or-run-a-spryker-project)
+- [Reason X: Long term maintainability](#reason-x-long-term-maintainability)
+- [Reason X: Job security](#reason-x-job-security)
   - [Customer satisfaction](#customer-satisfaction)
   - [Analyst recognition](#analyst-recognition)
-  - [You can service different business models](#you-can-service-different-business-models)
-  - [Spryker jobs](#spryker-jobs)
-- [Becoming a Spryker Superstar](#becoming-a-spryker-superstar)
-  - [Background experience](#background-experience)
-  - [Spryker Job profiles](#spryker-job-profiles)
+  - [Reason X: Spryker allows you to service different business models](#reason-x-spryker-allows-you-to-service-different-business-models)
+  - [Our technology stack keeps you flexible](#our-technology-stack-keeps-you-flexible)
+- [Reason X: Everything is in place to to turn you into a Spryker Superstar](#reason-x-everything-is-in-place-to-to-turn-you-into-a-spryker-superstar)
   - [Follow courses, get certified](#follow-courses-get-certified)
 - [Next steps](#next-steps)
 - [Where to find Spryker on the web](#where-to-find-spryker-on-the-web)
@@ -34,10 +32,10 @@ Let's start off with some development principles that Spryker is based on, an wh
 * Besides the above human reviews, Spryker uses various tools for monitoring the quality of the codebase and performance of the product in general: [PHPStan](https://phpstan.org/), [PHPMD](https://phpmd.org/), [Psalm](https://psalm.dev/), [Codeception](https://codeception.com/);
 * We like to say that we are positive perfectionists, and work only with clean and high-quality code. But you don't need to take that from us: Check our increadible code quality rating on [Scrutinizer](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master). * Our code is open and accessible for everyone to see. Our code is **not** released under an open source license, but all code is [available on GitHub](https://github.com/spryker), there are no parts hidden or encoded.
 
-# Technology
-## Application
+## Technology
+### Application
 Here's an overview of the technology used in the Spryker core product:
-### Backend
+#### Backend
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -55,23 +53,24 @@ Here's an overview of the technology used in the Spryker core product:
 
 *(AWS: S3, EC2, CloudFront, SQS)
 
-### Frontend
+##### Other
+* Propel ORM
+
+#### Frontend
 * Javascript
 * Webpack
 * NPM
 
-### Other
-* Propel ORM
+If you want to take a deep dive into the technology, check out the [Architecture Guide](https://docs.spryker.com/docs/scos/dev/architecture/architecture.html) or enroll in the free [Spryker Architecture Overview course](https://academy.spryker.com/learn/course/external/view/elearning/312/spryker-architecture-overview).
 
-If you want to dive a bit deeper into the technology, check out the [Architecture Guide](https://docs.spryker.com/docs/scos/dev/architecture/architecture.html) or enroll in the free [Spryker Architecture Overview course](https://academy.spryker.com/learn/course/external/view/elearning/312/spryker-architecture-overview).
+#### DevOps
+Here's an overview of the main technology used to work with Spryker:
 
-## DevOps
-Here's an overview of the main technology used to work with Spryer :
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### Other
+##### Other
 * Amazon CloudWatch
 * AWS Elastic Load
 * AWS CodePipeline
@@ -85,9 +84,11 @@ Here's an overview of the main technology used to work with Spryer :
 * Psalm
 * Vagrant
 
-Also see the [Spryker page on StackShare.io](https://stackshare.io/spryker/spryker-os) and check out the [Spryker Development Environment Overview](https://academy.spryker.com/learn/course/external/view/elearning/380/spryker-development-environment-overview) course.
+Also see the [Spryker page on StackShare.io](https://stackshare.io/spryker/spryker-os) and check out the [Spryker Development Environment Overview](https://.spryker.com/learn/course/external/view/elearning/380/spryker-development-environment-overview) course.
 
-## Some of our Github code stats
+## Github code stats
+Selection of our GitHub activity:
+
 ![GitHub Org's stars](https://img.shields.io/github/stars/spryker?style=social) 
 ![GitHub watchers](https://img.shields.io/github/watchers/spryker/spryker-core?style=social) 
 ![GitHub language count](https://img.shields.io/github/languages/count/spryker/spryker-core) 
@@ -130,7 +131,7 @@ Spryker was recognized in all four Gartner®️ Critical Capabilities Use Cases 
 Spryker supports a wide range of industries and business models like retail, manufacturing, wholesale, distribution, services and more B2B, B2C and Unified Commerce. All of these capabilities out of just one platform.
 
 ## Our technology stack keeps you flexible
-Because we use many modern, popular tools in our [Technology stack](#technology), it's easy to transition into Spryker and onto other projects if you need to.
+Because we use many modern, popular tools in our [Technology stack](#technology), it's relatively easy to transition into Spryker and any learned skills can be very useful at any projects that come after.
 
 ### Background experience
 What experience makes for an easy start into the Sprykerverse?
@@ -154,27 +155,24 @@ These are the things we see often pop-up in job profiles when companies hire Spr
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/search/profiles/?q=spryker
 )
 
-# We're ready to turn you into a Spryker Superstar
+# Reason X: Everything is in place to to turn you into a Spryker Superstar
 
 ## Follow courses, get certified
-The Spryker Academy offers several learningplans and courses to get your started and improve your skills
-* [Getting Started with Spryker](https://academy.spryker.com/learn/course/external/view/elearning/33/getting-started-with-spryker)
-* [Spryker Technology Overview](https://academy.spryker.com/learn/course/external/view/elearning/35/spryker-technology-overview)
-* [Developer e-Learing Courses](https://academy.spryker.com/learn/public/catalog/view/29)
-* * 
-* [Developer Instructor-led Courses and Certification](https://academy.spryker.com/learn/public/catalog/view/4)
-*  * Like Backend developer fundementals and our Solutiuon Architect Workshop
-*  [Spryker Developer Foundations Certification Exam](https://academy.spryker.com/learn/course/external/view/elearning/94/spryker-developer-foundations-certification-exam)
-
+The [Spryker Academy](https://spryker.com/academy-learning/) offers several learningplans and courses to get your started and improve your skills
+* [Getting Started with Spryker](https://academy.spryker.com/learn/course/external/view/elearning/33/getting-started-with-spryker);
+* 10+ [Spryker Overview](https://academy.spryker.com/learn/public/catalog/view/19) courses;
+* 10+ [Developer e-Learing Courses](https://academy.spryker.com/learn/public/catalog/view/29);
+* [Developer Instructor-led Courses and Certification](https://academy.spryker.com/learn/public/catalog/view/4);
+* [Spryker Developer Foundations Certification Exam](https://academy.spryker.com/learn/course/external/view/elearning/94/spryker-developer-foundations-certification-exam).
 
 ---------
 
 # Next steps
 Did the above peak your interest? Here are your next steps:
-* Follow our **free** developer e-learning courses of sign up for the Developer Instructor-led Courses and get certified: [academy.spryker.com](https://academy.spryker.com);
-* Use our [Quick Installation Guides](https://docs.spryker.com/docs/scos/dev/setup/quick-installation-guides/quick-installation-guides.html) to get famliar with the product;
-* Join our Slack: [sprykercommunity.slack.com](https://sprykercommunity.slack.com/join/shared_invite/zt-gdakzwk3-~B_gJXbUxMdzkBwTQVjNgg#/);
-* Sign-up for the [Spryker User Group](https://www.meetup.com/Spryker-User-Group/) and join our monthly meetups!
+1. Follow our **free** [developer e-learning courses](https://academy.spryker.com/learn/public/catalog/view/29), sign up for the [Developer Instructor-led Courses](https://academy.spryker.com/learn/public/catalog/view/4) and [get certified](https://academy.spryker.com/learn/course/external/view/elearning/94/spryker-developer-foundations-certification-exam);
+2. Use our [Quick Installation Guides](https://docs.spryker.com/docs/scos/dev/setup/quick-installation-guides/quick-installation-guides.html) to get famliar with the product;
+3. Join our Slack: [sprykercommunity.slack.com](https://sprykercommunity.slack.com/join/shared_invite/zt-gdakzwk3-~B_gJXbUxMdzkBwTQVjNgg#/);
+4. Sign-up for the [Spryker User Group](https://www.meetup.com/Spryker-User-Group/) and join our monthly meetups!
 
 ---------
 
