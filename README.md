@@ -1,5 +1,27 @@
 Here I'm creating an overview of why Spryker is a great platform for developers to learn, to enjoy and to make a good career out of. And if you're just like me, you don't want empty claims: you want the facts. So here we go :)
 
+# Table of Content
+- [Basic characteristics of Spryker Development](#basic-characteristics-of-spryker-development)
+- [Technology](#technology)
+  * [Application](#application)
+    + [Other](#other)
+  * [DevOps](#devops)
+    + [Other](#other-1)
+  * [Some of our Github code stats](#some-of-our-github-code-stats)
+- [Programming language - PHP](#programming-language---php)
+- [No need for a big team to build or run a Spryker project](#no-need-for-a-big-team-to-build-or-run-a-spryker-project)
+- [Long term maintainability](#long-term-maintainability)
+- [Job security](#job-security)
+  * [Customer satisfaction](#customer-satisfaction)
+  * [Analyst recognition](#analyst-recognition)
+    + [Best product for composable commerce](#best-product-for-composable-commerce)
+  * [You can service different business models](#you-can-service-different-business-models)
+  * [Spryker jobs](#spryker-jobs)
+- [Next steps](#next-steps)
+- [Where to find Spryker on the web](#where-to-find-spryker-on-the-web)
+
+-----------
+
 # Basic characteristics of Spryker Development
 * Spryker`s entire architecture is built upon the best practices and well-known design principles [SOLID](https://en.wikipedia.org/wiki/SOLID), [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), [KISS](https://en.wikipedia.org/wiki/KISS_principle), [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it), [Facade](https://en.wikipedia.org/wiki/Facade_pattern) & [Factory method](https://en.wikipedia.org/wiki/Factory_method_pattern);
 * Spryker has multiple levels of code reviews that are integrated into the development process:   
@@ -10,7 +32,7 @@ Here I'm creating an overview of why Spryker is a great platform for developers 
 * We like to say that we are positive perfectionists, and work only with clean and high-quality code. But you don't need to take that from us: Check our increadible code quality rating on [Scrutinizer](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master).  
 
 # Technology
-## Application:
+## Application
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -28,7 +50,7 @@ Here I'm creating an overview of why Spryker is a great platform for developers 
 
 *(AWS: S3, EC2, CloudFront, SQS)
 
-### Other:
+### Other
 * Propel ORM
 
 ## DevOps
@@ -36,7 +58,7 @@ Here I'm creating an overview of why Spryker is a great platform for developers 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### Other:
+### Other
 * Amazon CloudWatch
 * AWS Elastic Load
 * AWS CodePipeline
@@ -58,10 +80,10 @@ Also see the [Spryker page on StackShare.io](https://stackshare.io/spryker/spryk
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spryker/spryker-core)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master)
 
-# Programming language: PHP
+# Programming language - PHP
 :construction:	[TODO]
 
-# You don't need a big team to build/run a Spryker project
+# No need for a big team to build or run a Spryker project
 :construction:	[TODO]
 
 # Long term maintainability
@@ -97,7 +119,8 @@ Spryker supports a wide range of industries and business models like retail, man
 
 ---------
 
-# Did the above peek your interest? Here's where to go next
+# Next steps
+Did the above peak your interest? Here are your next steps:
 * Follow our **free** developer e-learning courses of sign up for the Developer Instructor-led Courses and get certified: [academy.spryker.com](https://academy.spryker.com);
 * Use our [Quick Installation Guides](https://docs.spryker.com/docs/scos/dev/setup/quick-installation-guides/quick-installation-guides.html) to get famliar with the product;
 * Join our Slack: [sprykercommunity.slack.com](https://sprykercommunity.slack.com/join/shared_invite/zt-gdakzwk3-~B_gJXbUxMdzkBwTQVjNgg#/);
