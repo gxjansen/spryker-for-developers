@@ -1,4 +1,4 @@
-Here I'm creating an overview of why Spryker is a great platform to learn for developers and make a career out of. And if you're just like me, you don't want empty claims: you want the facts. So here we go :)
+Here I'm creating an overview of why Spryker is a great platform for developers to learn, to enjoy and to make a good career out of. And if you're just like me, you don't want empty claims: you want the facts. So here we go :)
 
 # Some basic characteristics of Spryker Development
 * Spryker`s entire architecture is built upon the best practices and well-known design principles [SOLID](https://en.wikipedia.org/wiki/SOLID), [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), [KISS](https://en.wikipedia.org/wiki/KISS_principle), [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it), [Facade](https://en.wikipedia.org/wiki/Facade_pattern) & [Factory method](https://en.wikipedia.org/wiki/Factory_method_pattern);
@@ -58,9 +58,43 @@ Also see the [Spryker page on StackShare.io](https://stackshare.io/spryker/spryk
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spryker/spryker-core)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master)
 
-# Spryker jobs
+# Job security
+Some factors that indicate that Spryker is on the rise:
+
+## Customer satisfaction
+* G2 4.4 out of 5 stars: https://www.g2.com/products/spryker-cloud-commerce-os/reviews
+* Gartner 4.5 out of 5 stars: https://www.gartner.com/reviews/market/digital-commerce/vendor/spryker/product/spryker-cloud-commerce-os
+
+## Analyst recognition
+
+Spryker scored highest for overall growth of any vendor in the 2022 Gartner Magic Quadrant, with both customer and revenue growth nearing 100%. Customer growth was paralleled by an increasing number of larger service provider partnerships being cemented.
+
+See spryker.com/analyst-recognition-commerce for more details.
+
+### Best product for composable commerce
+Spryker is a modular cloud native platform conforming to broader definitions of microservices, but most closely to Gartner’s packaged business capability (PBC) paradigm.
+
+Spryker was recognized in all four Gartner®️ Critical Capabilities Use Cases for Digital Commerce, and a Visionary in the Gartner®️ Magic Quadrant™️ for Digital Commerce for the second consecutive year. 
+
+![Eighteen-vendors-are-ranked-according-to-how-well-they-meet-the-needs-of-composable-commerce-in-the-digital-commerce-market-as-of-June-2022-target png](https://user-images.githubusercontent.com/487722/198754589-4c6ea209-8499-4cef-a400-1fc8c7f040fc.jpg)
+
+## You can service different business models
+
+Spryker supports a wide range of industries and business models like retail, manufacturing, wholesale, distribution, services and more B2B, B2C and Unified Commerce. All of these capabilities out of just one platform.
+
+## Spryker jobs
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/search/profiles/?q=spryker
 )
+
+---------
+
+# Did the above peek your interest? Here's where to go next
+* Follow our **free** developer e-learning courses of sign up for the Developer Instructor-led Courses and get certified: [academy.spryker.com](https://academy.spryker.com);
+* Use our [Quick Installation Guides](https://docs.spryker.com/docs/scos/dev/setup/quick-installation-guides/quick-installation-guides.html) to get famliar with the product;
+* Join our Slack: [sprykercommunity.slack.com](https://sprykercommunity.slack.com/join/shared_invite/zt-gdakzwk3-~B_gJXbUxMdzkBwTQVjNgg#/);
+* Sign-up for the [Spryker User Group](https://www.meetup.com/Spryker-User-Group/) and join our monthly meetups!
+
+---------
 
 # Where to find Spryker on the web
 * [Spryker.com](https://spryker.com/)
