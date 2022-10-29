@@ -29,7 +29,7 @@ Here I'm creating an overview of why Spryker is a great platform for developers 
 *(AWS: S3, EC2, CloudFront, SQS)
 
 ### Other:
-Propel ORM
+* Propel ORM
 
 ## DevOps
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
