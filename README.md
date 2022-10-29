@@ -1,4 +1,6 @@
-Here I'm creating an overview of why Spryker is a great platform for developers to learn, to enjoy and to make a good career out of. And if you're just like me, you don't want empty claims: you want the facts. So here we go :)
+Here we're creating an overview of why Spryker is a great platform for developers to learn :student:, to enjoy :star_struck: and to make a good career out of :moneybag:. And if you're just like me, you don't want empty claims: you want **proof**. 
+
+So here we go. And feel free to send in your PRs!
 
 # Table of Content
 - [Basic characteristics of Spryker Development](#basic-characteristics-of-spryker-development)
@@ -23,16 +25,19 @@ Here I'm creating an overview of why Spryker is a great platform for developers 
 -----------
 
 # Basic characteristics of Spryker Development
+Let's start off with some development principles that Spryker is based on, an why you might like working with it.
 * Spryker`s entire architecture is built upon the best practices and well-known design principles [SOLID](https://en.wikipedia.org/wiki/SOLID), [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), [KISS](https://en.wikipedia.org/wiki/KISS_principle), [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it), [Facade](https://en.wikipedia.org/wiki/Facade_pattern) & [Factory method](https://en.wikipedia.org/wiki/Factory_method_pattern);
 * Spryker has multiple levels of code reviews that are integrated into the development process:   
   * Developer code review      
   * Technical lead code review       
   * Application architect code review
 * Besides the above human reviews, Spryker uses various tools for monitoring the quality of the codebase and performance of the product in general: [PHPStan](https://phpstan.org/), [PHPMD](https://phpmd.org/), [Psalm](https://psalm.dev/), [Codeception](https://codeception.com/);
-* We like to say that we are positive perfectionists, and work only with clean and high-quality code. But you don't need to take that from us: Check our increadible code quality rating on [Scrutinizer](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master).  
+* We like to say that we are positive perfectionists, and work only with clean and high-quality code. But you don't need to take that from us: Check our increadible code quality rating on [Scrutinizer](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master). * Our code is open and accessible for everyone to see. Our code is **not** released under an open source license, but all code is [available on GitHub](https://github.com/spryker), there are no parts hidden or encoded.
 
 # Technology
 ## Application
+Here's an overview of the technology used in the Spryker core product:
+### Backend
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -50,10 +55,16 @@ Here I'm creating an overview of why Spryker is a great platform for developers 
 
 *(AWS: S3, EC2, CloudFront, SQS)
 
+### Frontend
+* Javascript
+* Webpack
+* NPM
+
 ### Other
 * Propel ORM
 
 ## DevOps
+Here's an overview of the main technology used to work with Spryer :
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -70,8 +81,11 @@ Here I'm creating an overview of why Spryker is a great platform for developers 
 * PHPMD
 * PHPStan
 * Psalm
+* Vagrant
 
 Also see the [Spryker page on StackShare.io](https://stackshare.io/spryker/spryker-os)
+
+If you want to dive a bit deeper into the technology, check out the [Architecture Guide](https://docs.spryker.com/docs/scos/dev/architecture/architecture.html) or enroll in the free [Spryker Architecture Overview course](https://academy.spryker.com/learn/course/external/view/elearning/312/spryker-architecture-overview).
 
 ## Some of our Github code stats
 ![GitHub Org's stars](https://img.shields.io/github/stars/spryker?style=social) 
@@ -116,6 +130,36 @@ Spryker supports a wide range of industries and business models like retail, man
 ## Spryker jobs
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/search/profiles/?q=spryker
 )
+
+# Becoming a Spryker Superstar
+## Background experience
+What experience makes for an easy start into the Sprykerverse?
+* Experience with PHP development
+* Experience with Java development
+* Experience as a Solution Architect
+* ... :construction:	[TODO]
+
+## Spryker Job profiles
+These are the things we see often pop-up in job profiles when companies hire Spryker developers.
+* Senior-level expertise in coding with PHP
+* Knowledge about professional software engineering e.g. SOLID principles, Clean Code, Separation of Concerns
+* Working experience with standard frameworks like Zend, Symfony, Laravel, or others
+* E-Commerce experience with shop systems like Magento, Hybris, or similar.
+* Experience building and consuming REST APIs
+* Proficiency in developing, deploying, and debugging cloud-based applications using AWS, especially working with message queues
+* Good understanding of automated testing and experience writing tests
+* ... :construction:	[TODO]
+
+## Follow courses & get certified
+The Spryker Academy offers several learningplans and courses to get your started and improve your skills
+* [Getting Started with Spryker](https://academy.spryker.com/learn/course/external/view/elearning/33/getting-started-with-spryker)
+* [Spryker Technology Overview](https://academy.spryker.com/learn/course/external/view/elearning/35/spryker-technology-overview)
+* [Developer e-Learing Courses](https://academy.spryker.com/learn/public/catalog/view/29)
+* * 
+* [Developer Instructor-led Courses and Certification](https://academy.spryker.com/learn/public/catalog/view/4)
+*  * Like Backend developer fundementals and our Solutiuon Architect Workshop
+*  [Spryker Developer Foundations Certification Exam](https://academy.spryker.com/learn/course/external/view/elearning/94/spryker-developer-foundations-certification-exam)
+
 
 ---------
 
