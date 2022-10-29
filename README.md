@@ -1,6 +1,6 @@
 Here I'm creating an overview of why Spryker is a great platform for developers to learn, to enjoy and to make a good career out of. And if you're just like me, you don't want empty claims: you want the facts. So here we go :)
 
-# Some basic characteristics of Spryker Development
+# Basic characteristics of Spryker Development
 * Spryker`s entire architecture is built upon the best practices and well-known design principles [SOLID](https://en.wikipedia.org/wiki/SOLID), [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), [KISS](https://en.wikipedia.org/wiki/KISS_principle), [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it), [Facade](https://en.wikipedia.org/wiki/Facade_pattern) & [Factory method](https://en.wikipedia.org/wiki/Factory_method_pattern);
 * Spryker has multiple levels of code reviews that are integrated into the development process:   
   * Developer code review      
@@ -57,6 +57,15 @@ Also see the [Spryker page on StackShare.io](https://stackshare.io/spryker/spryk
 ![GitHub language count](https://img.shields.io/github/languages/count/spryker/spryker-core) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spryker/spryker-core)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master)
+
+# Programming language: PHP
+:construction:	[TODO]
+
+# You don't need a big team to build/run a Spryker project
+:construction:	[TODO]
+
+# Long term maintainability
+:construction:	[TODO]
 
 # Job security
 Some factors that indicate that Spryker is on the rise:
