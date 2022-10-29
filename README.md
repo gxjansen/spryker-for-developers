@@ -2,29 +2,29 @@ Here we're creating an overview of why Spryker is a great platform for developer
 
 So here we go. And feel free to send in your PRs!
 
-# Table of Content
-- [Basic characteristics of Spryker Development](#basic-characteristics-of-spryker-development)
+- [Reason X | Basic characteristics of Spryker Development](#reason-1--basic-characteristics-of-spryker-development)
 - [Technology](#technology)
-  * [Application](#application)
-    + [Other](#other)
-  * [DevOps](#devops)
-    + [Other](#other-1)
-  * [Some of our Github code stats](#some-of-our-github-code-stats)
-- [Programming language - PHP](#programming-language---php)
+  - [Application](#application)
+  - [DevOps](#devops)
+  - [Some of our Github code stats](#some-of-our-github-code-stats)
+- [Reason 1A: Programming language - PHP](#reason-1a-programming-language---php)
 - [No need for a big team to build or run a Spryker project](#no-need-for-a-big-team-to-build-or-run-a-spryker-project)
 - [Long term maintainability](#long-term-maintainability)
 - [Job security](#job-security)
-  * [Customer satisfaction](#customer-satisfaction)
-  * [Analyst recognition](#analyst-recognition)
-    + [Best product for composable commerce](#best-product-for-composable-commerce)
-  * [You can service different business models](#you-can-service-different-business-models)
-  * [Spryker jobs](#spryker-jobs)
+  - [Customer satisfaction](#customer-satisfaction)
+  - [Analyst recognition](#analyst-recognition)
+  - [You can service different business models](#you-can-service-different-business-models)
+  - [Spryker jobs](#spryker-jobs)
+- [Becoming a Spryker Superstar](#becoming-a-spryker-superstar)
+  - [Background experience](#background-experience)
+  - [Spryker Job profiles](#spryker-job-profiles)
+  - [Follow courses, get certified](#follow-courses-get-certified)
 - [Next steps](#next-steps)
 - [Where to find Spryker on the web](#where-to-find-spryker-on-the-web)
 
 -----------
 
-# Basic characteristics of Spryker Development
+# Reason X: Basic characteristics of Spryker Development
 Let's start off with some development principles that Spryker is based on, an why you might like working with it.
 * Spryker`s entire architecture is built upon the best practices and well-known design principles [SOLID](https://en.wikipedia.org/wiki/SOLID), [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), [KISS](https://en.wikipedia.org/wiki/KISS_principle), [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it), [Facade](https://en.wikipedia.org/wiki/Facade_pattern) & [Factory method](https://en.wikipedia.org/wiki/Factory_method_pattern);
 * Spryker has multiple levels of code reviews that are integrated into the development process:   
@@ -63,6 +63,8 @@ Here's an overview of the technology used in the Spryker core product:
 ### Other
 * Propel ORM
 
+If you want to dive a bit deeper into the technology, check out the [Architecture Guide](https://docs.spryker.com/docs/scos/dev/architecture/architecture.html) or enroll in the free [Spryker Architecture Overview course](https://academy.spryker.com/learn/course/external/view/elearning/312/spryker-architecture-overview).
+
 ## DevOps
 Here's an overview of the main technology used to work with Spryer :
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -83,9 +85,7 @@ Here's an overview of the main technology used to work with Spryer :
 * Psalm
 * Vagrant
 
-Also see the [Spryker page on StackShare.io](https://stackshare.io/spryker/spryker-os)
-
-If you want to dive a bit deeper into the technology, check out the [Architecture Guide](https://docs.spryker.com/docs/scos/dev/architecture/architecture.html) or enroll in the free [Spryker Architecture Overview course](https://academy.spryker.com/learn/course/external/view/elearning/312/spryker-architecture-overview).
+Also see the [Spryker page on StackShare.io](https://stackshare.io/spryker/spryker-os) and check out the [Spryker Development Environment Overview](https://academy.spryker.com/learn/course/external/view/elearning/380/spryker-development-environment-overview) course.
 
 ## Some of our Github code stats
 ![GitHub Org's stars](https://img.shields.io/github/stars/spryker?style=social) 
@@ -94,52 +94,52 @@ If you want to dive a bit deeper into the technology, check out the [Architectur
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spryker/spryker-core)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master)
 
-# Programming language - PHP
+# Reason Xa: Programming language: PHP
 :construction:	[TODO]
 
-# No need for a big team to build or run a Spryker project
+# Reason X: No need for a big team to build or run a Spryker project
 :construction:	[TODO]
 
-# Long term maintainability
+# Reason X: Long term maintainability
 :construction:	[TODO]
 
-# Job security
+# Reason X: Job security
 Some factors that indicate that Spryker is on the rise:
 
 ## Customer satisfaction
+
 * G2 4.4 out of 5 stars: https://www.g2.com/products/spryker-cloud-commerce-os/reviews
 * Gartner 4.5 out of 5 stars: https://www.gartner.com/reviews/market/digital-commerce/vendor/spryker/product/spryker-cloud-commerce-os
 
 ## Analyst recognition
+Like it or not, large Enterprises look at analyst firms for advice when they're buying new software. A good (and growing) score in analyst reports is therefore a good indication for upcoming Enterprise projects.
 
 Spryker scored highest for overall growth of any vendor in the 2022 Gartner Magic Quadrant, with both customer and revenue growth nearing 100%. Customer growth was paralleled by an increasing number of larger service provider partnerships being cemented.
 
-See spryker.com/analyst-recognition-commerce for more details.
+See [spryker.com/analyst-recognition-commerce](https://spryker.com/analyst-recognition-commerce/) for more details and recognition by other analyst firms like Forrester, IDC, MCFADYEN and Paradigm B2B.
 
-### Best product for composable commerce
+### Best product for cComposable Commerce
 Spryker is a modular cloud native platform conforming to broader definitions of microservices, but most closely to Gartner’s packaged business capability (PBC) paradigm.
 
 Spryker was recognized in all four Gartner®️ Critical Capabilities Use Cases for Digital Commerce, and a Visionary in the Gartner®️ Magic Quadrant™️ for Digital Commerce for the second consecutive year. 
 
 ![Eighteen-vendors-are-ranked-according-to-how-well-they-meet-the-needs-of-composable-commerce-in-the-digital-commerce-market-as-of-June-2022-target png](https://user-images.githubusercontent.com/487722/198754589-4c6ea209-8499-4cef-a400-1fc8c7f040fc.jpg)
 
-## You can service different business models
+## Reason X: Spryker allows you to service different business models
 
 Spryker supports a wide range of industries and business models like retail, manufacturing, wholesale, distribution, services and more B2B, B2C and Unified Commerce. All of these capabilities out of just one platform.
 
-## Spryker jobs
-[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/search/profiles/?q=spryker
-)
+## Our technology stack keeps you flexible
+Because we use many modern, popular tools in our [Technology stack](#technology), it's easy to transition into Spryker and onto other projects if you need to.
 
-# Becoming a Spryker Superstar
-## Background experience
+### Background experience
 What experience makes for an easy start into the Sprykerverse?
 * Experience with PHP development
 * Experience with Java development
 * Experience as a Solution Architect
 * ... :construction:	[TODO]
 
-## Spryker Job profiles
+### Spryker Job profiles
 These are the things we see often pop-up in job profiles when companies hire Spryker developers.
 * Senior-level expertise in coding with PHP
 * Knowledge about professional software engineering e.g. SOLID principles, Clean Code, Separation of Concerns
@@ -150,7 +150,13 @@ These are the things we see often pop-up in job profiles when companies hire Spr
 * Good understanding of automated testing and experience writing tests
 * ... :construction:	[TODO]
 
-## Follow courses & get certified
+### Spryker jobs
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/search/profiles/?q=spryker
+)
+
+# We're ready to turn you into a Spryker Superstar
+
+## Follow courses, get certified
 The Spryker Academy offers several learningplans and courses to get your started and improve your skills
 * [Getting Started with Spryker](https://academy.spryker.com/learn/course/external/view/elearning/33/getting-started-with-spryker)
 * [Spryker Technology Overview](https://academy.spryker.com/learn/course/external/view/elearning/35/spryker-technology-overview)
