@@ -181,6 +181,8 @@ The [Spryker Academy](https://spryker.com/academy-learning/) offers several lear
 
 > The ability to customize a decent amount of the codebases's functionality without overwriting it will probably be my favorite aspect of Spryker once it comes time to upgrade major versions. For the day-to-day side of things, the built-in code style, functionality, and structure tests are helpful in maintaining the current standards when adding new code. The built-in code generators are also a significant help, speeding up the overall pace of development. Spryker's technical support reps are also competent and responsive. 
 
+> The customizability and flexibility of the Spryker system (as well as the wealth of additional add-ons) meant that it was easy to pair Spryker with our current systems.
+
 ---------
 
 ## Next steps
