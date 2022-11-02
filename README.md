@@ -179,9 +179,20 @@ The [Spryker Academy](https://spryker.com/academy-learning/) offers several lear
 
 ## Spryker developer Quotes
 
-> The ability to customize a decent amount of the codebases's functionality without overwriting it will probably be my favorite aspect of Spryker once it comes time to upgrade major versions. For the day-to-day side of things, the built-in code style, functionality, and structure tests are helpful in maintaining the current standards when adding new code. The built-in code generators are also a significant help, speeding up the overall pace of development. Spryker's technical support reps are also competent and responsive. 
+> The ability to customize a decent amount of the codebases's functionality without overwriting it will probably be my favorite aspect of Spryker once it comes time to upgrade major versions. For the day-to-day side of things, the built-in code style, functionality, and structure tests are helpful in maintaining the current standards when adding new code. The built-in code generators are also a significant help, speeding up the overall pace of development. Spryker's technical support reps are also competent and responsive. The customizability and flexibility of the Spryker system (as well as the wealth of additional add-ons) meant that it was easy to pair Spryker with our current systems.
 
-> The customizability and flexibility of the Spryker system (as well as the wealth of additional add-ons) meant that it was easy to pair Spryker with our current systems.
+> * 100% customizable processes with the state machine
+> * Clean architecture
+> * Nothing is impossible
+> * With PaaS+, many helpful tools are given, which help reduce project maintenance and keep the code clean.
+> * Helpful community!
+
+> We use Spryker as our e-commerce solution and customer frontend. We have very extensive product data (3 million SKUs, 8 million images, 60 million technical attributes, etc.) and a use lot of APIs. What I like best:
+> * Code Quality
+> * Modularity
+> * APIs
+> * Customer Success
+> * Scalability
 
 ---------
 
