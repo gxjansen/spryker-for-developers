@@ -8,7 +8,7 @@ So here we go. And feel free to send in your PRs!
 - [Reason X: Basic characteristics of Spryker Development](#reason-x-basic-characteristics-of-spryker-development)
   - [Technology](#technology)
   - [Github code stats](#github-code-stats)
-- [Reason Xa: Programming language: PHP](#reason-xa-programming-language-php)
+- [Reason X: Programming language: PHP](#reason-xa-programming-language-php)
 - [Reason X: No need for a big team to build or run a Spryker project](#reason-x-no-need-for-a-big-team-to-build-or-run-a-spryker-project)
 - [Reason X: Long term maintainability](#reason-x-long-term-maintainability)
 - [Reason X: Job security](#reason-x-job-security)
@@ -101,7 +101,7 @@ Nearly 80% of websites use PHP ([source](https://w3techs.com/technologies/detail
 
 PHPs flexibility and low barrier of entry is both a blessing and a curse. The curse being that, for some developers, PHP has gotten a bad reputation because of its perceived inconsistencies, security matters, sloppy syntax and simply because it is everywhere. If something is very popular, it's almost inevitable that there will be a lot of people messing it up.
 
-But this is not inherent to PHP: if you (follow proper design principles like we do at Spryker](#reason-x-basic-characteristics-of-spryker-development),
+But this is not inherent to PHP: if you [follow proper design principles like we do at Spryker](#reason-x-basic-characteristics-of-spryker-development),
 
 Highly proficient PHP developers are sought after, so if you can master it, you have the potential to earn lots of money. That popularity means there are plenty of career opportunities out there. Another good reason to learn PHP: it pairs great with other skills and languages.
 
@@ -164,8 +164,7 @@ These are the things we see often pop-up in job profiles when companies hire Spr
 * ... :construction:	[TODO]
 
 #### Spryker jobs
-[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/search/profiles/?q=spryker
-)
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/search/profiles/?q=spryker)
 
 ## Reason X: Everything is in place to to turn you into a Spryker Superstar
 
