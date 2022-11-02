@@ -18,6 +18,7 @@ So here we go. And feel free to send in your PRs!
   - [Our technology stack keeps you flexible](#our-technology-stack-keeps-you-flexible)
 - [Reason X: Everything is in place to to turn you into a Spryker Superstar](#reason-x-everything-is-in-place-to-to-turn-you-into-a-spryker-superstar)
   - [Follow courses, get certified](#follow-courses-get-certified)
+- [Spryker Developer Quotes](spryker-developer-quotes)
 - [Next steps](#next-steps)
 - [Where to find Spryker on the web](#where-to-find-spryker-on-the-web)
 
@@ -175,6 +176,10 @@ The [Spryker Academy](https://spryker.com/academy-learning/) offers several lear
 * 10+ [Developer e-Learing Courses](https://academy.spryker.com/learn/public/catalog/view/29);
 * [Developer Instructor-led Courses and Certification](https://academy.spryker.com/learn/public/catalog/view/4);
 * [Spryker Developer Foundations Certification Exam](https://academy.spryker.com/learn/course/external/view/elearning/94/spryker-developer-foundations-certification-exam).
+
+## Spryker developer Quotes
+
+> The ability to customize a decent amount of the codebases's functionality without overwriting it will probably be my favorite aspect of Spryker once it comes time to upgrade major versions. For the day-to-day side of things, the built-in code style, functionality, and structure tests are helpful in maintaining the current standards when adding new code. The built-in code generators are also a significant help, speeding up the overall pace of development. Spryker's technical support reps are also competent and responsive. 
 
 ---------
 
