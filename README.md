@@ -1,12 +1,20 @@
 <div align="center">
 
 ![Open Code](https://img.shields.io/badge/open-code-blueviolet)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master)
-[![Minimum PHP Version](http://img.shields.io/badge/php-%3E%3D%208.0-8892BF.svg)](https://php.net/)
-![GitHub top language](https://img.shields.io/github/languages/top/spryker/spryker-core)
-![GitHub contributors](https://img.shields.io/github/contributors-anon/spryker/spryker-core)
-![GitHub issues](https://img.shields.io/github/issues/spryker/spryker-core)
 [![Slack](https://img.shields.io/badge/chat-on%20slack-%23ECB22E)](https://sprykercommunity.slack.com/join/shared_invite/zt-gdakzwk3-~B_gJXbUxMdzkBwTQVjNgg#/)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master)
+
+![GitHub language count](https://img.shields.io/github/languages/count/spryker/spryker-core) 
+![GitHub top language](https://img.shields.io/github/languages/top/spryker/spryker-core)
+[![Minimum PHP Version](http://img.shields.io/badge/php-%3E%3D%208.0-8892BF.svg)](https://php.net/)
+
+![GitHub contributors](https://img.shields.io/github/contributors-anon/spryker/spryker-core)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spryker/spryker-core)
+![GitHub issues](https://img.shields.io/github/issues-raw/spryker/spryker-core)
+  
+![GitHub Org's stars](https://img.shields.io/github/stars/spryker?style=social) 
+![GitHub watchers](https://img.shields.io/github/watchers/spryker/spryker-core?style=social) 
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/487722/199758609-a57f3438-bcb8-4fcf-878b-f26d5ea560e5.png" width="400">
@@ -109,15 +117,6 @@ Here's an overview of the main technology used to work with Spryker:
 * Vagrant
 
 Also see the [Spryker page on StackShare.io](https://stackshare.io/spryker/spryker-os) and check out the [Spryker Development Environment Overview](https://.spryker.com/learn/course/external/view/elearning/380/spryker-development-environment-overview) course.
-
-### Github code stats
-Selection of our GitHub activity:
-
-![GitHub Org's stars](https://img.shields.io/github/stars/spryker?style=social) 
-![GitHub watchers](https://img.shields.io/github/watchers/spryker/spryker-core?style=social) 
-![GitHub language count](https://img.shields.io/github/languages/count/spryker/spryker-core) 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spryker/spryker-core)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master)
 
 ## Reason X: Programming language: PHP
 Nearly 80% of websites use PHP ([source](https://w3techs.com/technologies/details/pl-php)), PHP has been one of the top 5 programming languages since the year 2000 ([source](https://statisticsanddata.org/data/the-most-popular-programming-languages-1965-2022-new-update/)), and it's the foundation of the most popular framework Laravell ([source](https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2022/)).
