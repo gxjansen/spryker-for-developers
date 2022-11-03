@@ -6,9 +6,15 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/spryker/spryker-core)
 [![Slack](https://img.shields.io/badge/chat-on%20slack-%23ECB22E)](https://sprykercommunity.slack.com/join/shared_invite/zt-gdakzwk3-~B_gJXbUxMdzkBwTQVjNgg#/)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/487722/199758609-a57f3438-bcb8-4fcf-878b-f26d5ea560e5.png" width="400">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/487722/199768939-6f299805-a2f9-4bcb-b22c-345fa73624b9.png" width="400">
+  <img alt="Spryker logo" src="https://user-images.githubusercontent.com/487722/199758609-a57f3438-bcb8-4fcf-878b-f26d5ea560e5.pn">
+</picture>
+       
+       
+       
 </div>
-
-<p align="center"><a href="https://spryker.com/" target="_blank" rel="noopener noreferrer"><img width="250" src="src="https://user-images.githubusercontent.com/487722/199758609-a57f3438-bcb8-4fcf-878b-f26d5ea560e5.png"></a></p>
 
 <h1 align="center">Why Spryker is great for developers</h1>
 
