@@ -4,6 +4,8 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master)
 [![Minimum PHP Version](http://img.shields.io/badge/php-%3E%3D%208.0-8892BF.svg)](https://php.net/)
 ![GitHub top language](https://img.shields.io/github/languages/top/spryker/spryker-core)
+![GitHub contributors](https://img.shields.io/github/contributors-anon/spryker/spryker-core)
+![GitHub issues](https://img.shields.io/github/issues/spryker/spryker-core)
 [![Slack](https://img.shields.io/badge/chat-on%20slack-%23ECB22E)](https://sprykercommunity.slack.com/join/shared_invite/zt-gdakzwk3-~B_gJXbUxMdzkBwTQVjNgg#/)
 
 <picture>
@@ -134,6 +136,25 @@ Finding good developers is never easy, but because of PHPs popularity, it's easy
 ## Reason X: No need for a big team to build or run a Spryker project
 :construction:	[TODO]
 
+## No Spaghetti code, but a State Machine
+One of the biggest challenges in e-commerce is the mapping and implementation of business processes in the IT infrastructure. What can still be easily implemented with a simple B2C business model becomes a real challenge with more complex business processes in the B2B area.  
+
+As an example of this, we can imagine the processing of an order. The order must be processed separately depending on the products ordered, the desired delivery time, the stock level and the type of payment.  
+
+Depending on the complexity of the process, this often leads to complex "if-then-else" constructs (spaghetti code) when implementing with some other platforms, which after a short time seems difficult to understand and after a long time almost unmaintainable.  
+
+Spryker provides a solution to this problem with the so-called state machine. Processes can be easily modeled and visualized based on states, transitions and events. This solution gives both the developer and the shop operator a transparent and easy-to-maintain opportunity to implement and expand complex processes. 
+
+## Import and Export has been taken care of
+Every e-commerce project needs a way to communicate with the outside world: Products and inventories, orders and customer data, etc. must all be able to be exchanged and compared with other systems. Each software product goes its own way and offers the data in a variety of different formats and forms.  
+ 
+Unfortunately, many older systems only offer limited solutions to data, often illustrated by the overwhelming number of third-party modules dedicated to this problem. 
+
+Spryker, on the other hand, already provides a framework to be able to implement imports and exports quickly and cleanly. The developer is left with the task of bringing the data into the correct format. The actual process of importing and exporting is then accomplished with the tools provided by Spryker. 
+
+## Reason X: Killer SDK
+:construction:	[TODO]
+
 ## Reason X: Long term maintainability
 :construction:	[TODO]
 
@@ -142,8 +163,8 @@ Some factors that indicate that Spryker is on the rise:
 
 ### Customer satisfaction
 
-* G2 4.4 out of 5 stars: https://www.g2.com/products/spryker-cloud-commerce-os/reviews
-* Gartner 4.5 out of 5 stars: https://www.gartner.com/reviews/market/digital-commerce/vendor/spryker/product/spryker-cloud-commerce-os
+* G2: 4.4 out of 5 stars: https://www.g2.com/products/spryker-cloud-commerce-os/reviews
+* Gartner: 4.5 out of 5 stars: https://www.gartner.com/reviews/market/digital-commerce/vendor/spryker/product/spryker-cloud-commerce-os
 
 ### Analyst recognition
 Like it or not, large Enterprises look at analyst firms for advice when they're buying new software. A good (and growing) score in analyst reports is therefore a good indication for upcoming Enterprise projects.
