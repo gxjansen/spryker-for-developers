@@ -1,6 +1,6 @@
 <div align="center">
 
-
+![Open Code](https://img.shields.io/badge/open-code-blueviolet)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master)
 [![Minimum PHP Version](http://img.shields.io/badge/php-%3E%3D%208.0-8892BF.svg)](https://php.net/)
 ![GitHub top language](https://img.shields.io/github/languages/top/spryker/spryker-core)
@@ -54,7 +54,7 @@ Let's start off with some development principles that Spryker is based on, an wh
   * Application architect code review
 * Besides the above human reviews, Spryker uses various tools for monitoring the quality of the codebase and performance of the product in general: [PHPStan](https://phpstan.org/), [PHPMD](https://phpmd.org/), [Psalm](https://psalm.dev/), [Codeception](https://codeception.com/);
 * We like to say that we are positive perfectionists, and work only with clean and high-quality code. But you don't need to take that from us: Check our incredible  code quality rating on [Scrutinizer](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master).
-* Our code is open and accessible for everyone to see. Our code is **not** released under an open source license, but all code is [available on GitHub](https://github.com/spryker), there are no parts hidden or encoded.
+* Our code is open and accessible for everyone to see. Our code is **not** released under an open source license, but all code is [available on GitHub](https://github.com/spryker), there are no parts hidden or encoded. Also when using our PaaS version, the individual features remain open code and can be used, modified or removed at will.   
 
 ### Technology
 #### Application
@@ -119,7 +119,7 @@ Selection of our GitHub activity:
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spryker/spryker-core)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master)
 
-## Reason Xa: Programming language: PHP
+## Reason X: Programming language: PHP
 Nearly 80% of websites use PHP ([source](https://w3techs.com/technologies/details/pl-php)), PHP has been one of the top 5 programming languages since the year 2000 ([source](https://statisticsanddata.org/data/the-most-popular-programming-languages-1965-2022-new-update/)), and it's the foundation of the most popular framework Laravell ([source](https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2022/)).
 
 PHPs flexibility and low barrier of entry is both a blessing and a curse. The curse being that, for some developers, PHP has gotten a bad reputation because of its perceived inconsistencies, security matters, sloppy syntax and simply because it is everywhere. If something is very popular, it's almost inevitable that there will be a lot of people messing it up.
