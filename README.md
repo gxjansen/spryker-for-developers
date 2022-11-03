@@ -1,4 +1,17 @@
-# Why Spryker is great for Developers
+<div align="center">
+
+
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master)
+[![Minimum PHP Version](http://img.shields.io/badge/php-%3E%3D%208.0-8892BF.svg)](https://php.net/)
+![GitHub top language](https://img.shields.io/github/languages/top/spryker/spryker-core)
+[![Slack](https://img.shields.io/badge/chat-on%20slack-%23ECB22E)](https://sprykercommunity.slack.com/join/shared_invite/zt-gdakzwk3-~B_gJXbUxMdzkBwTQVjNgg#/)
+
+</div>
+
+<p align="center"><a href="https://spryker.com/" target="_blank" rel="noopener noreferrer"><img width="250" src="src="https://user-images.githubusercontent.com/487722/199758609-a57f3438-bcb8-4fcf-878b-f26d5ea560e5.png"></a></p>
+
+<h1 align="center">Why Spryker is great for developers</h1>
+
 Here we're crafting an overview of why Spryker is a great platform for developers to learn :student:, to enjoy :star_struck: and to make a good career out of :moneybag:. And if you're just like me, you don't want empty claims: you want **proof**. 
 
 So here we go. And feel free to send in your PRs!
@@ -32,7 +45,8 @@ Let's start off with some development principles that Spryker is based on, an wh
   * Technical lead code review       
   * Application architect code review
 * Besides the above human reviews, Spryker uses various tools for monitoring the quality of the codebase and performance of the product in general: [PHPStan](https://phpstan.org/), [PHPMD](https://phpmd.org/), [Psalm](https://psalm.dev/), [Codeception](https://codeception.com/);
-* We like to say that we are positive perfectionists, and work only with clean and high-quality code. But you don't need to take that from us: Check our incredible  code quality rating on [Scrutinizer](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master). * Our code is open and accessible for everyone to see. Our code is **not** released under an open source license, but all code is [available on GitHub](https://github.com/spryker), there are no parts hidden or encoded.
+* We like to say that we are positive perfectionists, and work only with clean and high-quality code. But you don't need to take that from us: Check our incredible  code quality rating on [Scrutinizer](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master).
+* Our code is open and accessible for everyone to see. Our code is **not** released under an open source license, but all code is [available on GitHub](https://github.com/spryker), there are no parts hidden or encoded.
 
 ### Technology
 #### Application
