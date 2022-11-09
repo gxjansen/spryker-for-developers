@@ -47,7 +47,7 @@ So here we go. And feel free to send in your PRs!
   - [Our technology stack keeps you flexible](#our-technology-stack-keeps-you-flexible)
 - [Reason X: Everything is in place to to turn you into a Spryker Superstar](#reason-x-everything-is-in-place-to-to-turn-you-into-a-spryker-superstar)
   - [Follow courses, get certified](#follow-courses-get-certified)
-- [Spryker Developer Quotes](spryker-developer-quotes)
+- [Spryker Developer Quotes](#spryker-developer-quotes)
 - [Next steps](#next-steps)
 - [Where to find Spryker on the web](#where-to-find-spryker-on-the-web)
 
