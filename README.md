@@ -34,26 +34,29 @@ So here we go. And feel free to send in your PRs!
 
 ## Table of contents
 
-- [Reason X: Basic characteristics of Spryker Development](#reason-x-basic-characteristics-of-spryker-development)
+- [Reason 1: Basic characteristics of Spryker Development](#reason-1-basic-characteristics-of-spryker-development)
   - [Technology](#technology)
-  - [Github code stats](#github-code-stats)
-- [Reason X: Programming language: PHP](#reason-xa-programming-language-php)
-- [Reason X: No need for a big team to build or run a Spryker project](#reason-x-no-need-for-a-big-team-to-build-or-run-a-spryker-project)
-- [Reason X: Long term maintainability](#reason-x-long-term-maintainability)
-- [Reason X: Job security](#reason-x-job-security)
+- [Reason 2: Programming language: PHP](#reason-2-programming-language-php)
+  - [Relative ease to find new developers](#relative-ease-to-find-new-developers)
+- [Reason 3: No need for a big team to build or run a Spryker project](#reason-3-no-need-for-a-big-team-to-build-or-run-a-spryker-project)
+- [No Spaghetti code, but a State Machine](#no-spaghetti-code-but-a-state-machine)
+- [Import and Export has been taken care of](#import-and-export-has-been-taken-care-of)
+- [Reason 4: Killer SDK](#reason-4-killer-sdk)
+- [Reason 5: Long term maintainability](#reason-5-long-term-maintainability)
+- [Reason 6: Job security](#reason-6-job-security)
   - [Customer satisfaction](#customer-satisfaction)
   - [Analyst recognition](#analyst-recognition)
-  - [Reason X: Spryker allows you to service different business models](#reason-x-spryker-allows-you-to-service-different-business-models)
+- [Reason 7: Spryker allows you to service different business models](#reason-7-spryker-allows-you-to-service-different-business-models)
   - [Our technology stack keeps you flexible](#our-technology-stack-keeps-you-flexible)
-- [Reason X: Everything is in place to to turn you into a Spryker Superstar](#reason-x-everything-is-in-place-to-to-turn-you-into-a-spryker-superstar)
+- [Reason 8: Everything is in place to to turn you into a Spryker Superstar](#reason-8-everything-is-in-place-to-to-turn-you-into-a-spryker-superstar)
   - [Follow courses, get certified](#follow-courses-get-certified)
-- [Spryker Developer Quotes](#spryker-developer-quotes)
+- [Spryker developer Quotes](#spryker-developer-quotes)
 - [Next steps](#next-steps)
 - [Where to find Spryker on the web](#where-to-find-spryker-on-the-web)
 
 -----------
 
-## Reason X: Basic characteristics of Spryker Development
+## Reason 1: Basic characteristics of Spryker Development
 Let's start off with some development principles that Spryker is based on, an why you might like working with it.
 * Spryker`s entire architecture is built upon the best practices and well-known design principles [SOLID](https://en.wikipedia.org/wiki/SOLID), [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), [KISS](https://en.wikipedia.org/wiki/KISS_principle), [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it), [Facade](https://en.wikipedia.org/wiki/Facade_pattern) & [Factory method](https://en.wikipedia.org/wiki/Factory_method_pattern);
 * Spryker has multiple levels of code reviews that are integrated into the development process:   
@@ -118,7 +121,7 @@ Here's an overview of the main technology used to work with Spryker:
 
 Also see the [Spryker page on StackShare.io](https://stackshare.io/spryker/spryker-os) and check out the [Spryker Development Environment Overview](https://.spryker.com/learn/course/external/view/elearning/380/spryker-development-environment-overview) course.
 
-## Reason X: Programming language: PHP
+## Reason 2: Programming language: PHP
 Nearly 80% of websites use PHP ([source](https://w3techs.com/technologies/details/pl-php)), PHP has been one of the top 5 programming languages since the year 2000 ([source](https://statisticsanddata.org/data/the-most-popular-programming-languages-1965-2022-new-update/)), and it's the foundation of the most popular framework Laravell ([source](https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2022/)).
 
 PHPs flexibility and low barrier of entry is both a blessing and a curse. The curse being that, for some developers, PHP has gotten a bad reputation because of its perceived inconsistencies, security matters, sloppy syntax and simply because it is everywhere. If something is very popular, it's almost inevitable that there will be a lot of people messing it up.
@@ -132,7 +135,7 @@ Finding good developers is never easy, but because of PHPs popularity, it's easy
 
 :construction:	[TODO]
 
-## Reason X: No need for a big team to build or run a Spryker project
+## Reason 3: No need for a big team to build or run a Spryker project
 :construction:	[TODO]
 
 ## No Spaghetti code, but a State Machine
@@ -151,13 +154,13 @@ Unfortunately, many older systems only offer limited solutions to data, often il
 
 Spryker, on the other hand, already provides a framework to be able to implement imports and exports quickly and cleanly. The developer is left with the task of bringing the data into the correct format. The actual process of importing and exporting is then accomplished with the tools provided by Spryker. 
 
-## Reason X: Killer SDK
+## Reason 4: Killer SDK
 :construction:	[TODO]
 
-## Reason X: Long term maintainability
+## Reason 5: Long term maintainability
 :construction:	[TODO]
 
-## Reason X: Job security
+## Reason 6: Job security
 Some factors that indicate that Spryker is on the rise:
 
 ### Customer satisfaction
@@ -179,7 +182,7 @@ Spryker was recognized in all four Gartner®️ Critical Capabilities Use Cases 
 
 ![Eighteen-vendors-are-ranked-according-to-how-well-they-meet-the-needs-of-composable-commerce-in-the-digital-commerce-market-as-of-June-2022-target png](https://user-images.githubusercontent.com/487722/198754589-4c6ea209-8499-4cef-a400-1fc8c7f040fc.jpg)
 
-### Reason X: Spryker allows you to service different business models
+## Reason 7: Spryker allows you to service different business models
 
 Spryker supports a wide range of industries and business models like retail, manufacturing, wholesale, distribution, services and more B2B, B2C and Unified Commerce. All of these capabilities out of just one platform.
 
@@ -207,7 +210,7 @@ These are the things we see often pop-up in job profiles when companies hire Spr
 #### Spryker jobs
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/search/profiles/?q=spryker)
 
-## Reason X: Everything is in place to to turn you into a Spryker Superstar
+## Reason 8: Everything is in place to to turn you into a Spryker Superstar
 
 ### Follow courses, get certified
 The [Spryker Academy](https://spryker.com/academy-learning/) offers several learning plans and courses to get your started and improve your skills
