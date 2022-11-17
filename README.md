@@ -26,7 +26,9 @@
        
 </div>
 
-<h1 align="center">Why Spryker is great for developers</h1>
+<h1 align="center">Why Spryker is great for developers
+
+![GitHub last commit](https://img.shields.io/github/last-commit/gxjansen/spryker-for-developers?label=latest%20update)</h1>
 
 Here we're crafting an overview of why Spryker is a great platform for developers to learn :student:, to enjoy :star_struck: and to make a good career out of :moneybag:. And if you're just like me, you don't want empty claims: you want **proof**. 
 
