@@ -265,6 +265,7 @@ Did the above peak your interest? Here are your next steps:
 [![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)](https://www.meetup.com/Spryker-User-Group/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/spryker/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/spryker)
+[![Mastodon](https://img.shields.io/badge/Mastodon-5945da.svg?style=for-the-badge&logo=mastodon&logoColor=white)](https://phpc.social/@spryker)
 
 ---------
 
