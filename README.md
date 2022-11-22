@@ -91,7 +91,7 @@ Here's an overview of the technology used in the Spryker core product:
 *(AWS: S3, EC2, CloudFront, SQS)
 
 ###### Other
-* Propel ORM
+* [Propel ORM](https://propelorm.org/)
 
 ##### Frontend
 * Javascript
