@@ -1,8 +1,7 @@
 <div align="center">
 
 ![Open Code](https://img.shields.io/badge/open-code-blueviolet)
-[![Slack](https://img.shields.io/badge/chat-on%20slack-%23ECB22E)](https://sprykercommunity.slack.com/join/shared_invite/zt-gdakzwk3-~B_gJXbUxMdzkBwTQVjNgg#/)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master)
+![Static Badge](https://img.shields.io/badge/Join-CommerceQuest-011427?logoColor=011427&color=00AeeF&link=https%3A%2F%2Fcommercequest.space%2F)
 
 ![GitHub language count](https://img.shields.io/github/languages/count/spryker/spryker-core) 
 ![GitHub top language](https://img.shields.io/github/languages/top/spryker/spryker-core)
@@ -245,7 +244,7 @@ The [Spryker Academy](https://spryker.com/academy-learning/) offers several lear
 Did the above peak your interest? Here are your next steps:
 1. Follow our **free** [developer e-learning courses](https://academy.spryker.com/learn/public/catalog/view/29), sign up for the [Developer Instructor-led Courses](https://academy.spryker.com/learn/public/catalog/view/4) and [get certified](https://academy.spryker.com/learn/course/external/view/elearning/94/spryker-developer-foundations-certification-exam);
 2. Use our [Quick Installation Guides](https://docs.spryker.com/docs/scos/dev/setup/quick-installation-guides/quick-installation-guides.html) to get familiar with the product;
-3. Join our Slack: [sprykercommunity.slack.com](https://sprykercommunity.slack.com/join/shared_invite/zt-gdakzwk3-~B_gJXbUxMdzkBwTQVjNgg#/);
+3. Join our Community: [CommerceQuest](https://commercequest.space/);
 4. Sign-up for the [Spryker User Group](https://www.meetup.com/Spryker-User-Group/) and join our monthly meetups!
 
 ---------
@@ -254,7 +253,7 @@ Did the above peak your interest? Here are your next steps:
 * [Spryker.com](https://spryker.com/)
 * [Spryker Documentation](https://docs.spryker.com/)
 * [Spryker Academy](https://spryker.com/academy-learning/)
-* [Spryker Community](https://spryker.com/community/)
+* [Spryker Community](https://commercequest.space/)
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spryker)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/questions/tagged/spryker)
